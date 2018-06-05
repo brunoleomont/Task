@@ -21,8 +21,8 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         Parse.initialize(new Parse.Configuration.Builder(this)
-                        .applicationId("ZXnle3NNA7eFg9RsyGDULvd3jtz4cRu4K7x9Zl55")
-                        .clientKey("Z5kbmWrfqlez4PPJaGqwBPFfugBFZmLg1NffrAF8")
+                        .applicationId("")
+                        .clientKey("")
                         .server("https://parseapi.back4app.com/").build()
         );
 
